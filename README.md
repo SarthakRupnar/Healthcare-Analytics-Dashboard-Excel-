@@ -6,6 +6,22 @@ This project is an interactive Healthcare Analytics Dashboard built using Micros
 
 ---
 
+## 🧠 Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Dashboard Design
+- Data Visualization
+- Business Insight Generation
+- Interactive Slicers
+- KPI Reporting
+
+
+---
+
 ## 📂 Dataset
 
 - Records: 55,500
@@ -23,6 +39,18 @@ This project is an interactive Healthcare Analytics Dashboard built using Micros
 - Study admission types.
 - Build an interactive dashboard using Excel.
 
+---
+
+## 🚀 Project Highlights
+
+- 📊 Built an interactive Excel dashboard using Pivot Tables and Pivot Charts.
+- 🏥 Analyzed **55,500** healthcare records.
+- 💰 Tracked billing trends across medical conditions and insurance providers.
+- 🎛️ Added interactive slicers for dynamic filtering.
+- 📈 Designed KPI cards for Total Patients, Total Billing, Average Billing, and Average Age.
+- 💡 Generated business insights from healthcare data.
+
+  
 ---
 
 ## 🛠 Tools Used
